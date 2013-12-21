@@ -1,0 +1,15 @@
+Welcome to "Super Awesome (Just Kidding) Game" by Jacob Chappell.
+
+# Controls
+
+* W,A,S,D moves the player.
+* > goes down a staircase (must be standing on a down staircase first).
+* < goes up a staircase (must be standing on an up staircase first).
+* P picks up an item and places it into your inventory.
+* O drops an item from your inventory. If equipped, it unequips it.
+* E equips an equippable item from your inventory. If another item is equipped, it unequips it.
+* U uses a consumable item in your inventory.
+* I views your inventory.
+* Q quits the game.
+
+Check out README-full for full documentation with game decisions and so on.

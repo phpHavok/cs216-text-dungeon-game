@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<World>
+	<Item>
+		<name>Nothing Much</name>
+		<symbol>%</symbol>
+		<value>1</value>
+		<weight>1</weight>
+		<level>1</level>
+	</Item>
+	<Weapon>
+		<name>Sluggish Dagger</name>
+		<symbol>!</symbol>
+		<value>5</value>
+		<weight>2</weight>
+		<level>1</level>
+		<attackBonus>1</attackBonus>
+	</Weapon>
+	<Weapon>
+		<name>Cool Sword</name>
+		<symbol>!</symbol>
+		<value>15</value>
+		<weight>5</weight>
+		<level>3</level>
+		<attackBonus>3</attackBonus>
+	</Weapon>
+	<Weapon>
+		<name>Awesome Axe</name>
+		<symbol>!</symbol>
+		<value>30</value>
+		<weight>10</weight>
+		<level>5</level>
+		<attackBonus>5</attackBonus>
+	</Weapon>
+	<Armor>
+		<name>Leather Jacket</name>
+		<symbol>@</symbol>
+		<value>5</value>
+		<weight>2</weight>
+		<level>1</level>
+		<defenseBonus>1</defenseBonus>
+	</Armor>
+	<Armor>
+		<name>Wrath of Euclid</name>
+		<symbol>@</symbol>
+		<value>20</value>
+		<weight>15</weight>
+		<level>4</level>
+		<defenseBonus>3</defenseBonus>
+	</Armor>
+	<Consumable>
+		<name>Minor Health Potion</name>
+		<symbol>$</symbol>
+		<value>1</value>
+		<weight>1</weight>
+		<level>1</level>
+		<healthBonus>10</healthBonus>
+	</Consumable>
+	<Consumable>
+		<name>Major Health Potion</name>
+		<symbol>$</symbol>
+		<value>10</value>
+		<weight>1</weight>
+		<level>5</level>
+		<healthBonus>50</healthBonus>
+	</Consumable>
+</World>
